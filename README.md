@@ -36,6 +36,6 @@ Features
 3) This data is then used to trigger events using Raspberry Pi.
 
 ## Flow diagram
-![Flowchart(https://github.com/maazali059/Agrisure-Greenathon/blob/main/Flowchart.png?raw=true)
+![Flowchart](https://github.com/maazali059/Agrisure-Greenathon/blob/main/Flowchart.png?raw=true)
 
 
